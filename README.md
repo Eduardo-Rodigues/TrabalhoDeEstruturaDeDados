@@ -1,4 +1,6 @@
 # TrabalhoDeEstruturaDeDados
+Eduardo Rodrigues
+RA: 00136396
 A classe OrdenacaoBolha, faz a ordenação de um vetor através do método bolha. Ele percorre repetidamente uma lista de elementos, comparando pares adjacentes e trocando-os se estiverem na ordem errada. Esse processo é repetido até que a lista esteja completamente ordenada.
 
 A classe OrdenacaoInsercao utiliza o método de ordenação por inserção. Ele constrói uma lista ordenada, inserindo cada elemento da lista desordenada em sua posição correta.
